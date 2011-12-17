@@ -25,6 +25,9 @@ public class Test {
 	public void method7(){
 
 	}
+	public void method8(){
+
+	}
 	public void method9(){
 
 	}
